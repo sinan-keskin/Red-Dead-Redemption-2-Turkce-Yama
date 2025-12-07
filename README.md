@@ -1,0 +1,1 @@
+# Red Dead Redemption 2 Türkçe Yama
