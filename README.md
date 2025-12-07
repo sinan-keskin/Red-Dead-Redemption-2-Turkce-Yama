@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sinan-keskin/REPO/main/icon.png" width="120">
-</p>
-
 <h1 align="center">🎮 Red Dead Redemption 2 Türkçe Yama Aracı</h1>
 <p align="center">Red Dead Redemption 2 için otomatik Türkçe yama kurup kaldırma uygulaması</p>
 
