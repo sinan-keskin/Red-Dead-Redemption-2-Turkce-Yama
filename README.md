@@ -6,8 +6,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-WinForms-239120?style=for-the-badge&logo=csharp&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/RDR2-Turkish%20Patch-red?style=for-the-badge">&nbsp;
-  <img src="https://img.shields.io/github/license/sinan-keskin/REPO?style=for-the-badge">&nbsp;
-  <img src="https://img.shields.io/github/stars/sinan-keskin/REPO?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/sinan-keskin/Red-Dead-Redemption-2-Turkce-Yama?style=for-the-badge">&nbsp;
+  <img src="https://img.shields.io/github/stars/sinan-keskin/Red-Dead-Redemption-2-Turkce-Yama?style=for-the-badge">
 </p>
 
 ---
@@ -22,8 +22,6 @@
 - ✔ Yedek gerektirmez, orijinal dosyaları doğru şekilde temizler  
 - ✔ Windows Registry’ye kayıt ederek oyun yolunu hatırlar
   
----
-
 ---
 
 ## 🚀 Kurulum ve Kullanım
